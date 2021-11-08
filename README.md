@@ -5,6 +5,6 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/sumit-kumar-jogi-a1667a169/
 
 <!---
-maxkumar93/maxkumar93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+maxkumar93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
